@@ -1,5 +1,5 @@
 {
-  "name": "mcdonalds-menu-app",
+  "name": "humblebite-menu-app",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "express": "^4.21.1",
-    "mongoose": "^8.8.0"
+    "mysql2": "^3.11.4"
   }
 }
